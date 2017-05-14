@@ -1,14 +1,14 @@
 body{
-  background-color: yellow;
+  background-color:  #05c361 ;
 }
 .titulo{
   color:  #f0f3f4 ;
   font-size: 25x;
   font-style: normal;
   text-decoration: none;
-  background-color: IndianRed;
+  background-color:  #05a3c3 ;
   border: 2px solid;
-  border-color:  #ffb233 ;
+  border-color:#f0f3f4;
   padding: 8px;
   text-align: center;
 }
@@ -17,17 +17,17 @@ body{
   font-size: 25x;
   font-style: normal;
   text-decoration: none;
-  background-color: IndianRed;
+  background-color: #05a3c3 ;
   border: 2px solid;
   border-radius: 25px;
-  border-color:  #ffb233 ;
+  border-color:  #f0f3f4 ;
   padding: 8px;
   font-weight: bold;
 }
 .subtema{
   padding-left: 100px;
   padding-top: 50px;
-  color: #c31905;
+  color: #f0f3f4;
 }
 .critica{
   padding: 20px;
@@ -38,14 +38,18 @@ body{
   font-weight: lighter;
   border:2px solid;
   border-radius: 25px;
-  border-color:  #ffb233;
+  border-color:  #f0f3f4;
 }
-.conde{
+.bestia{
   width: 400px;
   height: 300px;
   margin-left: 50px;
 }
-
+.paredes{
+  width: 400px;
+  height: 300px;
+  margin-left: 50px;
+}
 .palabra{
   font-size: 14px;
   font-style: italic;
@@ -54,7 +58,7 @@ body{
 ol{
   border:2px solid;
   border-radius: 25px;
-  border-color:  #ffb233;
+  border-color:  #f0f3f4;
 
 }
 .palabra p{
@@ -74,10 +78,15 @@ ol{
   font-weight: lighter;
   border:2px solid;
   border-radius: 25px;
-  border-color:  #ffb233;
+  border-color:  #f0f3f4;
 }
 .allan{
   width: 500px;
   height: 500px;
+  margin-left: 50px;
+}
+.capote{
+  width: 500px;
+  height: 400px;
   margin-left: 50px;
 }
