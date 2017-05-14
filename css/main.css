@@ -1,0 +1,83 @@
+body{
+  background-color: yellow;
+}
+.titulo{
+  color:  #f0f3f4 ;
+  font-size: 25x;
+  font-style: normal;
+  text-decoration: none;
+  background-color: IndianRed;
+  border: 2px solid;
+  border-color:  #ffb233 ;
+  padding: 8px;
+  text-align: center;
+}
+.opcion{
+  color:  #f0f3f4 ;
+  font-size: 25x;
+  font-style: normal;
+  text-decoration: none;
+  background-color: IndianRed;
+  border: 2px solid;
+  border-radius: 25px;
+  border-color:  #ffb233 ;
+  padding: 8px;
+  font-weight: bold;
+}
+.subtema{
+  padding-left: 100px;
+  padding-top: 50px;
+  color: #c31905;
+}
+.critica{
+  padding: 20px;
+  width: 700px;
+  float: left;
+  text-align: justify;
+  font-style: oblique;
+  font-weight: lighter;
+  border:2px solid;
+  border-radius: 25px;
+  border-color:  #ffb233;
+}
+.conde{
+  width: 400px;
+  height: 300px;
+  margin-left: 50px;
+}
+
+.palabra{
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+}
+ol{
+  border:2px solid;
+  border-radius: 25px;
+  border-color:  #ffb233;
+
+}
+.palabra p{
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  padding-left: 10px;
+  text-align: justify;
+  width: 1200px;
+}
+.reseña{
+  padding: 20px;
+  width: 700px;
+  float: left;
+  text-align: justify;
+  font-style: oblique;
+  font-weight: lighter;
+  border:2px solid;
+  border-radius: 25px;
+  border-color:  #ffb233;
+}
+.allan{
+  width: 500px;
+  height: 500px;
+  margin-left: 50px;
+}
